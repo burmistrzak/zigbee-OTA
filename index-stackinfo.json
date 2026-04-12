@@ -702,12 +702,6 @@
     "zigbeeStackVersion": "ZigbeePro"
   },
   {
-    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Inovelli/VZM36_1.01-Beta.ota",
-    "stack": "EmberZNet",
-    "stackDetails": "GBL",
-    "zigbeeStackVersion": "ZigbeePro"
-  },
-  {
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Insta/V00.00.52.12.ota",
     "stack": "EmberZNet",
     "stackDetails": "GBL",
@@ -4929,6 +4923,12 @@
     "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Hue/100B-012F-01000706-Switch-SiMG301.zigbee",
     "stack": "Unknown",
     "stackDetails": "",
+    "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Inovelli/VZM36_1.02.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
     "zigbeeStackVersion": "ZigbeePro"
   }
 ]
