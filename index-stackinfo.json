@@ -4930,5 +4930,11 @@
     "stack": "EmberZNet",
     "stackDetails": "GBL",
     "zigbeeStackVersion": "ZigbeePro"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/Koenkk/zigbee-OTA/master/images/Sonoff/minizb1gsp_v1.0.3.ota",
+    "stack": "EmberZNet",
+    "stackDetails": "GBL",
+    "zigbeeStackVersion": "ZigbeePro"
   }
 ]
